@@ -27,29 +27,76 @@
         <div class="mt-5" v-scrollAnime>
           <h5 class="text-success prof_head">Back-end Development</h5>
           <p class="lh-lg">
-            I specialize in building robust and scalable web applications that
-            feature fast, secure, and highly extensible APIs. My toolset
-            includes a range of technologies, such as
-            <code class="text-success">
-              PHP, JavaScript, TypeScript, Laravel, and Node.js</code
-            >. With a keen eye for detail and a passion for coding, I bring a
-            wealth of experience and expertise to each project, ensuring that my
-            solutions meet the highest standards of quality and performance.
-            Whether working independently or as part of a team, I am dedicated
-            to delivering innovative, cutting-edge applications that drive
-            real-world impact and value.
+            I build scalable and secure web applications with robust and
+            efficient APIs. My expertise lies in
+            <code class="text-success">PHP</code>,
+            <code class="text-success">Laravel</code>, and
+            <code class="text-success">NodeJS</code>.
           </p>
         </div>
         <div class="mt-5" v-scrollAnime>
           <h5 class="text-success prof_head">Database Development</h5>
-          <!-- I design uniformed relational data models aptly accomplished with -->
           <p class="lh-lg font-monospace">
-            I possess the ability to design consistent and efficient relational
-            data structures that are compatible with both
-            <code class="text-success">MySQL/SQL and MongoDB</code> . My
-            expertise in data modeling and database design ensures the accuracy,
-            performance, and scalability of these structures, allowing for
-            seamless data retrieval and storage.
+            I design and implement normalized relational database schemas using
+            <code class="text-success">MySQL</code> and
+            <code class="text-success">PostgreSQL</code>, ensuring data
+            integrity, scalability, and efficiency. I also work with NoSQL
+            databases such as <code class="text-success">MongoDB</code> for
+            unstructured or flexible data storage requirements.
+          </p>
+        </div>
+
+        <div class="mt-5" v-scrollAnime>
+          <h5 class="text-success prof_head">Full-Stack Integration</h5>
+          <p class="lh-lg font-monospace">
+            I excel at bridging front-end and back-end development, ensuring
+            smooth communication between client-side interfaces and server-side
+            logic. By leveraging
+            <code class="text-success">RESTful APIs</code>,
+            <code class="text-success">GraphQL</code>, and efficient state
+            management libraries, I deliver cohesive full-stack solutions.
+          </p>
+        </div>
+
+        <div class="mt-5" v-scrollAnime>
+          <h5 class="text-success prof_head">DevOps & Deployment</h5>
+          <p class="lh-lg font-monospace">
+            I streamline deployment workflows and ensure robust CI/CD pipelines
+            using tools like <code class="text-success">Docker</code>,
+            <code class="text-success">Kubernetes</code>,
+            <code class="text-success">Jenkins</code>, and
+            <code class="text-success">GitHub Actions</code>. I also have
+            experience with cloud platforms such as
+            <code class="text-success">AWS</code>,
+            <code class="text-success">Google Cloud</code>, and
+            <code class="text-success">Heroku</code>.
+          </p>
+        </div>
+
+        <div class="mt-5" v-scrollAnime>
+          <h5 class="text-success prof_head">
+            Version Control & Collaboration
+          </h5>
+          <p class="lh-lg font-monospace">
+            I use <code class="text-success">Git</code> and
+            <code class="text-success">GitHub</code> for version control and
+            collaboration, ensuring seamless teamwork and efficient project
+            management. I am also familiar with
+            <code class="text-success">Jira</code> and
+            <code class="text-success">Trello</code> for task tracking and
+            management.
+          </p>
+        </div>
+
+        <div class="mt-5" v-scrollAnime>
+          <h5 class="text-success prof_head">Other Tools & Technologies</h5>
+          <p class="lh-lg font-monospace">
+            I have experience with <code class="text-success">TypeScript</code>,
+            <code class="text-success">JavaScript (ES6+)</code>,
+            <code class="text-success">NGINX</code>,
+            <code class="text-success">Webpack</code>, and
+            <code class="text-success">Babel</code>, enhancing my ability to
+            tailor solutions to meet diverse project requirements.
           </p>
         </div>
       </div>

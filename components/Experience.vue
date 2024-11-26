@@ -16,9 +16,102 @@
       <li>
         <div class="container row">
           <div class="col-lg-4">
-            <small class="">May 2023 - Present</small>
+            <small class="">February 2024 - Present</small>
+            <h5 href="" class="text-success">WayaLinks</h5>
+            <small class="text-success"> Backend Engineer</small>
+            <br />
+            <small class="text-muted">Lagos, Nigeria - Remote</small>
+            <br />
+            <br />
+          </div>
+
+          <div class="col-lg-8">
+            <ul class="list-style-type-none lh-lg">
+              <li>
+                Maintained and optimized Node.js backend micro-services for high
+                availability and performance, ensuring smooth financial
+                transactions.
+              </li>
+
+              <li>
+                Enhanced and debugged existing APIs to improve security,
+                functionality, and efficiency in handling financial data.
+              </li>
+
+              <li>
+                Refactored database schemas and queries, significantly improving
+                transaction processing speed and reliability.
+              </li>
+
+              <li>
+                Collaborated closely with the DevOps team to monitor,
+                troubleshoot, and resolve production issues, ensuring minimal
+                downtime and quick recovery.
+              </li>
+            </ul>
+          </div>
+        </div>
+      </li>
+
+      <li>
+        <div class="container row">
+          <div class="col-lg-4">
+            <small class="">July 2023 - Oct. 2023</small>
+            <h5 href="" class="text-success">NexaScale</h5>
+            <small class="text-success"> Backend Engineer (Contract) </small>
+            <br />
+            <small class="text-muted">Lagos, Nigeria - Remote</small>
+            <br />
+            <br />
+          </div>
+
+          <div class="col-lg-8">
+            <ul class="list-style-type-none lh-lg">
+              <li>
+                Collaborated within a diverse team, specializing in backend
+                development.
+              </li>
+
+              <li>
+                Proficiently utilized Node.js, Postgres, and Docker in project
+                development.
+              </li>
+
+              <li>
+                Contributed to the design and implementation of scalable backend
+                architectures.
+              </li>
+
+              <li>
+                Actively engaged in agile development processes and routine code
+                reviews.
+              </li>
+
+              <li>
+                Demonstrated a commitment to continuous learning and technology
+                adaptation.
+              </li>
+
+              <li>
+                Played a pivotal role in optimizing database performance and
+                response times.
+              </li>
+
+              <li>
+                Maintained comprehensive documentation for backend systems and
+                workflows.
+              </li>
+            </ul>
+          </div>
+        </div>
+      </li>
+
+      <li>
+        <div class="container row">
+          <div class="col-lg-4">
+            <small class="">May 2023 - July 2023</small>
             <h5 href="" class="text-success">Prachpro</h5>
-            <small class="text-success"> Full Stack Engineer </small>
+            <small class="text-success"> Full Stack Engineer (Contract) </small>
             <br />
             <small class="text-muted">Lagos, Nigeria - Remote</small>
             <br />
